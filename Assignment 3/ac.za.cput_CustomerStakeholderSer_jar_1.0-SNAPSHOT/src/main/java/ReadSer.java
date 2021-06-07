@@ -6,7 +6,7 @@
 
 /**
  *
- * @author KISO
+ * @author Armand NZIZA (217035019)
  */
  import java.io.BufferedWriter;
 import java.io.FileInputStream;
